@@ -4,3 +4,5 @@
 
 ## Introduction
 <p><code>Scenario-Based-Forecast-Study/code> is a pure-pythonic way</p>
+  
+  <p>Optionally, <code>pydispo</code> can fetch attached files and there's also a provision to save emails as HTML.  By default, the emails are shown as text, optionally any standard web browser can be used to view the emails. Currently, it uses 1secmail API to receive emails, and soon it would support additional APIs.  If you want a bash-like implementation with some dependencies, please check the <a href="https://github.com/sdushantha/tmpmail">tmpmail</a> script.</p>
