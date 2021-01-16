@@ -22,8 +22,8 @@ To run the subroutines in your local machine, you will need following python lib
 <div class="highlight highlight-source-shell"><pre>$ pip install matplotlib</pre></div>
 
 
-</a>Issues:</h2>
-<p>Problems? Please raise an issue at <a href="https://github.com/aakash30jan/pydispo/issues">https://github.com/aakash30jan/pydispo/issues</a>.</p>
+##Issues:
+<p> Feel free to raise an issue at <a href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study"</a>.</p>
 
 
 
