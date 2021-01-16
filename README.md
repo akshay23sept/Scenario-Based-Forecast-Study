@@ -14,7 +14,7 @@
 <p>6.<code>Main</code>: This module helps all the other functions by facilitating the input parameters. After successful execution of demand estimates, the module outputs the results.</p>
 
 <p align="center">
-<code>Note</code>: The code is parallelized and uses multiple CPU's which reduces the computation and elapsed time.
+<code>Note</code>: The codes are parallelized and uses multiple CPU's which reduces the computation and elapsed time.
 </p>
 
 <p align="center">
