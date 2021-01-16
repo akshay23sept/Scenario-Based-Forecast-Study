@@ -14,6 +14,10 @@
 <p>6.<code>Main</code>: This module helps all the other functions by facilitating the input parameters. After successful execution of demand estimates, the module outputs the results.</p>
 
 <p align="center">
+<code>Note</code>: The codes are parallelized and uses multiple CPU's which reduces the computation and elapsed time.
+</p>
+
+<p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images/uam_algorithm.png"><img src="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images/uam_algorithm.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
 </p>
 
@@ -31,6 +35,7 @@ To run the subroutines in your local machine, you will need following python lib
 <div class="highlight highlight-source-shell"><pre>$ pip install fuzzywuzzy</pre></div>
 <div class="highlight highlight-source-shell"><pre>$ pip install numba</pre></div>
 <div class="highlight highlight-source-shell"><pre>$ pip install matplotlib</pre></div>
+
 
 
 ## Issues:
