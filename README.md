@@ -34,20 +34,10 @@ To run the subroutines in your local machine, you will need following python lib
 <p> Feel free to raise an issue at <a href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study">https://github.com/akshay23sept/Scenario-Based-Forecast-Study</a>.
   
   
-  <div class="highlight highlight-text-shell-session"><pre><span class="pl-c1">Usage: pydispo [-h] [-a] [-r] [-g] [-s] [-b BROWSER] [-e EMAIL] [id]</span>
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/blob/master/dev/screenshot.png"><img src="./a_files/screenshot.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
+</p>
 
-<span class="pl-c1">Options</span>
-<span class="pl-c1">  id                    Check email with message ID (default shows mailbox)</span>
-<span class="pl-c1">  -h, --help            show this help message and exit</span>
-<span class="pl-c1">  -a, --attached        Download all attached files in the email</span>
-<span class="pl-c1">  -r, --recent          Check the recent email</span>
-<span class="pl-c1">  -g, --generate        Generate a new email address</span>
-<span class="pl-c1">  -s, --save            Save email in an HTML file</span>
-<span class="pl-c1">  -b, --browser         Browser to check the email in HTML</span>
-<span class="pl-c1">  -e, --email           Check mailbox of a particular email</span>
-</pre></div>
-
-<p><a target="_blank" rel="noopener noreferrer" href="./aakash30jan_pydispo_ A Disposable Mailbox Powered by Pure-Python_files/68747470733a2f2f61706174696c2e6d652f746f6f6c732f7079646973705f636173742e676966"><img src="./aakash30jan_pydispo_ A Disposable Mailbox Powered by Pure-Python_files/68747470733a2f2f61706174696c2e6d652f746f6f6c732f7079646973705f636173742e676966" alt="Usage Demo" data-canonical-src="https://akshay23sept.github.io/Conferences/Research/aerodynamic_effort.gif" style="max-width:100%;"></a></p>
 
 
 
