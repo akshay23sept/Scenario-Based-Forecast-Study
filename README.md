@@ -6,7 +6,9 @@
 <p><code>Scenario-Based-Forecast-Study</code> repository contains a group of pythonic subroutines (codes) which are developed to foresact the demand for UAM during 2035 to 2050 timeframe for a set of 542 global cities. Each subroutine performs a special task to execute the scenario outsome. The picture shown below shows the working of each subroutines.</p>
 
 ## Subroutines 
-<p>1. <code>Assumptions</code>: This subroutine declares all the assumptions made in the current research to forecast the UAM demand estimates for low and high demand scenarios between 2035 and 2050. To have a look at our assumptions please refer to our published <a href="https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=1">papers</a> in AIAA Aviation 2020 and AIAA Scitech 2021.</p>
+<p>1.<code>Assumptions</code>: This subroutine declares all the assumptions made in the current research to forecast the UAM demand estimates for low and high demand scenarios between 2035 and 2050. To have a look at our assumptions please refer to our published <a href="https://scholar.google.com/citations?user=5pY2xYQAAAAJ&hl=en&authuser=1">papers</a> in AIAA Aviation 2020 and AIAA Scitech 2021.</p>
+<p>2.<code>Willingness to Pay</code>: The willingness to pay function is estimated as the sum of cost of traditional modes of transport and the dollar value a traveller would place on time saved through UAM trips.</p>
+
   
 ## Set-Up
 To run the subroutines in your local machine, you will need following python libraries (if you don't have the libraries installed in your machine, installed by typing...) You can use any IDE (Spyder, Qt Console, PyCharm or your terminal) to run the scripts.
