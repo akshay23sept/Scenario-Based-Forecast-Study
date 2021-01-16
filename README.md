@@ -13,6 +13,9 @@
 <p>5.<code>UAM PKM</code>: The UAM PKM function generates the income and distance data points for the algorithm to evaluate. Each iteration represents a different trip, which is described by trip purpose, mode, income, and distance. The calculation for PKM is described in Equation 6 in our <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2021-1516">paper</a>. At this point, a decision is evaluated. If WTP ≥ UAM trip cost, then this would be a viable UAM trip option, and the PKM associated with this trip should be computed.</p>
 <p>6.<code>Main</code>: This module helps all the other functions by facilitating the input parameters. After successful execution of demand estimates, the module outputs the results.</p>
 
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/Scenario%20Matrix/uam_algorithm.png"><img src="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/Scenario%20Matrix/uam_algorithm.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
+</p>
 
   
 ## Set-Up
@@ -34,9 +37,7 @@ To run the subroutines in your local machine, you will need following python lib
 <p> Feel free to raise an issue at <a href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study">https://github.com/akshay23sept/Scenario-Based-Forecast-Study</a>.
   
   
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/blob/master/dev/screenshot.png"><img src="./a_files/screenshot.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
-</p>
+
 
 
 
