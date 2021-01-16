@@ -9,4 +9,20 @@
   
 #Set-Up
 To run the subroutines in your local machine, you will need following python libraries (if you don't have the libraries installed in your machine, installed by typing...)
-<div class="highlight highlight-source-shell"><pre>$ pip install pydispo</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install numpy</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install pandas</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install statistics</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install scipy</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install math</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install scikit</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install glob</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install csv</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install fuzzywuzzy</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install numba</pre></div>
+<div class="highlight highlight-source-shell"><pre>$ pip install matplotlib</pre></div>
+
+
+
+
+
+
