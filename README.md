@@ -34,7 +34,18 @@ To run the subroutines in your local machine, you will need following python lib
 <p> Feel free to raise an issue at <a href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study">https://github.com/akshay23sept/Scenario-Based-Forecast-Study</a>.
   
   
-  
+  <div class="highlight highlight-text-shell-session"><pre><span class="pl-c1">Usage: pydispo [-h] [-a] [-r] [-g] [-s] [-b BROWSER] [-e EMAIL] [id]</span>
+
+<span class="pl-c1">Options</span>
+<span class="pl-c1">  id                    Check email with message ID (default shows mailbox)</span>
+<span class="pl-c1">  -h, --help            show this help message and exit</span>
+<span class="pl-c1">  -a, --attached        Download all attached files in the email</span>
+<span class="pl-c1">  -r, --recent          Check the recent email</span>
+<span class="pl-c1">  -g, --generate        Generate a new email address</span>
+<span class="pl-c1">  -s, --save            Save email in an HTML file</span>
+<span class="pl-c1">  -b, --browser         Browser to check the email in HTML</span>
+<span class="pl-c1">  -e, --email           Check mailbox of a particular email</span>
+</pre></div>
 
 
 
