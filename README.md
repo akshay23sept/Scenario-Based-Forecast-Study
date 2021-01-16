@@ -35,7 +35,7 @@ To run the subroutines in your local machine, you will need following python lib
   
   
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/aakash30jan/Couette-Poiseuille_FlowCode/blob/master/dev/screenshot.png"><img src="./a_files/screenshot.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/Scenario%20Matrix/uam_algorithm.png"><img src="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/Scenario%20Matrix/uam_algorithm.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
 </p>
 
 
