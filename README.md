@@ -18,10 +18,9 @@
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images/uam_algorithm.png"><img src="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images/uam_algorithm.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images_scripts/uam_algorithm.png"><img src="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images_scripts/uam_algorithm.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
 </p>
 
-  
 ## Set-Up
 To run the subroutines in your local machine, you will need following python libraries (if you don't have the libraries installed in your machine, installed by typing...) You can use any IDE (Spyder, Qt Console, PyCharm or your terminal) to run the scripts.
 <div class="highlight highlight-source-shell"><pre>$ pip install numpy</pre></div>
