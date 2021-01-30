@@ -1,0 +1,4251 @@
+﻿
+
+Distributions
+	
+
+Myanmar_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2144.4054	2149.492	2140.2817
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	136438.5229
+99.5%		136438.5229
+97.5%		69896.0493065
+90.0%		40245.299323
+75.0%	quartile	27814.951245
+50.0%	median	19930.16279
+25.0%	quartile	14406.6263725
+10.0%		10869.411034
+2.5%		7758.2851267
+0.5%		5826.494021
+0.0%	minimum	5826.494021
+
+
+
+
+Summary Statistics
+
+	
+Mean	23911.413
+Std Dev	16809.782
+Std Err Mean	1680.9782
+Upper 95% Mean	27246.839
+Lower 95% Mean	20575.988
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.92815292572054	0.0524304	9.8243963	10.03191
+Shape	σ	0.524304352888917	0.0370739	0.4592521	0.6062983
+
+
+
+Measures	
+ -2*LogLikelihood	2140.2817
+AICc	2144.4054
+BIC	2149.492
+
+	
+
+Myanmar_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2240.2609	2245.3475	2236.1372
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	220335.5386
+99.5%		220335.5386
+97.5%		112875.6259175
+90.0%		64992.419388
+75.0%	quartile	44918.5620925
+50.0%	median	32185.361275
+25.0%	quartile	23265.3631275
+10.0%		17553.088994
+2.5%		12528.90968925
+0.5%		9409.246529
+0.0%	minimum	9409.246529
+
+
+
+
+Summary Statistics
+
+	
+Mean	38614.711
+Std Dev	27146.237
+Std Err Mean	2714.6237
+Upper 95% Mean	44001.113
+Lower 95% Mean	33228.308
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.4074303539198	0.0524304	10.303674	10.511187
+Shape	σ	0.524304352930337	0.0370739	0.4592521	0.6062983
+
+
+
+Measures	
+ -2*LogLikelihood	2236.1372
+AICc	2240.2609
+BIC	2245.3475
+
+	
+
+Myanmar_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2336.1164	2341.203	2331.9927
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	355821.4244
+99.5%		355821.4244
+97.5%		182283.64904
+90.0%		104956.7191
+75.0%	quartile	72539.3045825
+50.0%	median	51976.368255
+25.0%	quartile	37571.399965
+10.0%		28346.60794
+2.5%		20233.025143
+0.5%		15195.05897
+0.0%	minimum	15195.05897
+
+
+
+
+Summary Statistics
+
+	
+Mean	62359.17
+Std Dev	43838.65
+Std Err Mean	4383.865
+Upper 95% Mean	71057.709
+Lower 95% Mean	53660.631
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.8867077821294	0.0524304	10.782951	10.990464
+Shape	σ	0.524304352910728	0.0370739	0.4592521	0.6062983
+
+
+
+Measures	
+ -2*LogLikelihood	2331.9927
+AICc	2336.1164
+BIC	2341.203
+
+	
+
+Myanmar_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2431.9719	2437.0585	2427.8482
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	574618.5426
+99.5%		574618.5426
+97.5%		294371.1579225
+90.0%		169495.35033
+75.0%	quartile	117144.237575
+50.0%	median	83937.00582
+25.0%	quartile	60674.320345
+10.0%		45777.138255
+2.5%		32674.4558395
+0.5%		24538.60853
+0.0%	minimum	24538.60853
+
+
+
+
+Summary Statistics
+
+	
+Mean	100704.27
+Std Dev	70795.347
+Std Err Mean	7079.5347
+Upper 95% Mean	114751.6
+Lower 95% Mean	86656.933
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.3659852103507	0.0524304	11.262229	11.469742
+Shape	σ	0.524304352907025	0.0370739	0.4592521	0.6062983
+
+
+
+Measures	
+ -2*LogLikelihood	2427.8482
+AICc	2431.9719
+BIC	2437.0585
+
+	
+
+Netherlands_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2400.3244	2405.411	2396.2007
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	431099.8772
+99.5%		431099.8772
+97.5%		216741.881405
+90.0%		134522.83295
+75.0%	quartile	99773.1154675
+50.0%	median	72475.12437
+25.0%	quartile	53845.80833
+10.0%		38901.512701
+2.5%		22179.13846225
+0.5%		9042.094873
+0.0%	minimum	9042.094873
+
+
+
+
+Summary Statistics
+
+	
+Mean	83352.644
+Std Dev	52408.392
+Std Err Mean	5240.8392
+Upper 95% Mean	93751.607
+Lower 95% Mean	72953.682
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.1880296566173	0.0534745	11.082207	11.293852
+Shape	σ	0.534745302079536	0.0378122	0.4683976	0.618372
+
+
+
+Measures	
+ -2*LogLikelihood	2396.2007
+AICc	2400.3244
+BIC	2405.411
+
+	
+
+Netherlands_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2420.127	2425.2137	2416.0033
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	475969.0987
+99.5%		475969.0987
+97.5%		239300.550515
+90.0%		148524.07738
+75.0%	quartile	110157.581425
+50.0%	median	80018.393525
+25.0%	quartile	59450.12331
+10.0%		42950.413395
+2.5%		24487.561008
+0.5%		9983.20337
+0.0%	minimum	9983.20337
+
+
+
+
+Summary Statistics
+
+	
+Mean	92028.055
+Std Dev	57863.1
+Std Err Mean	5786.31
+Upper 95% Mean	103509.35
+Lower 95% Mean	80546.76
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.2870427931009	0.0534745	11.18122	11.392866
+Shape	σ	0.534745302070199	0.0378122	0.4683976	0.618372
+
+
+
+Measures	
+ -2*LogLikelihood	2416.0033
+AICc	2420.127
+BIC	2425.2137
+
+	
+
+Netherlands_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2439.9297	2445.0163	2435.8059
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	525508.3448
+99.5%		525508.3448
+97.5%		264207.14403
+90.0%		163982.58272
+75.0%	quartile	121622.870975
+50.0%	median	88346.772195
+25.0%	quartile	65637.7398975
+10.0%		47420.726913
+2.5%		27036.24603125
+0.5%		11022.2632
+0.0%	minimum	11022.2632
+
+
+
+
+Summary Statistics
+
+	
+Mean	101606.41
+Std Dev	63885.538
+Std Err Mean	6388.5538
+Upper 95% Mean	114282.69
+Lower 95% Mean	88930.132
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.3860559295952	0.0534745	11.280233	11.491879
+Shape	σ	0.534745302061243	0.0378122	0.4683976	0.618372
+
+
+
+Measures	
+ -2*LogLikelihood	2435.8059
+AICc	2439.9297
+BIC	2445.0163
+
+	
+
+Netherlands_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2459.7323	2464.8189	2455.6086
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	580203.6754
+99.5%		580203.6754
+97.5%		291706.0358175
+90.0%		181050.02159
+75.0%	quartile	134281.477075
+50.0%	median	97541.97521
+25.0%	quartile	72469.36859
+10.0%		52356.314262
+2.5%		29850.20022675
+0.5%		12169.4692
+0.0%	minimum	12169.4692
+
+
+
+
+Summary Statistics
+
+	
+Mean	112181.69
+Std Dev	70534.796
+Std Err Mean	7053.4796
+Upper 95% Mean	126177.32
+Lower 95% Mean	98186.051
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.4850690660788	0.0534745	11.379246	11.590892
+Shape	σ	0.534745302090417	0.0378122	0.4683976	0.618372
+
+
+
+Measures	
+ -2*LogLikelihood	2455.6086
+AICc	2459.7323
+BIC	2464.8189
+
+	
+
+New Zealand_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	474.7709	476.05648	470.06502
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	204692.6243
+99.5%		204692.6243
+97.5%		204692.6243
+90.0%		118239.819104
+75.0%	quartile	75295.8102125
+50.0%	median	49174.395675
+25.0%	quartile	33732.2907
+10.0%		22881.466718
+2.5%		13384.971
+0.5%		13384.971
+0.0%	minimum	13384.971
+
+
+
+
+Summary Statistics
+
+	
+Mean	61124.171
+Std Dev	43208.79
+Std Err Mean	9661.7793
+Upper 95% Mean	81346.508
+Lower 95% Mean	40901.835
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.8312932906359	0.1358135	10.551795	11.110791
+Shape	σ	0.607376491372793	0.0960347	0.4586182	0.8580368
+
+
+
+Measures	
+ -2*LogLikelihood	470.06502
+AICc	474.7709
+BIC	476.05648
+
+	
+
+New Zealand_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	478.90782	480.1934	474.20193
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	226996.0045
+99.5%		226996.0045
+97.5%		226996.0045
+90.0%		131123.27132
+75.0%	quartile	83500.068145
+50.0%	median	54532.455105
+25.0%	quartile	37407.7729525
+10.0%		25374.639375
+2.5%		14843.40214
+0.5%		14843.40214
+0.0%	minimum	14843.40214
+
+
+
+
+Summary Statistics
+
+	
+Mean	67784.282
+Std Dev	47916.835
+Std Err Mean	10714.53
+Upper 95% Mean	90210.052
+Lower 95% Mean	45358.513
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.93471624661	0.1358135	10.655218	11.214214
+Shape	σ	0.607376491350778	0.0960347	0.4586182	0.8580368
+
+
+
+Measures	
+ -2*LogLikelihood	474.20193
+AICc	478.90782
+BIC	480.1934
+
+	
+
+New Zealand_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	483.04473	484.33032	478.33885
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	251729.5689
+99.5%		251729.5689
+97.5%		251729.5689
+90.0%		145410.50909
+75.0%	quartile	92598.264905
+50.0%	median	60474.33057
+25.0%	quartile	41483.7370325
+10.0%		28139.468993
+2.5%		16460.74445
+0.5%		16460.74445
+0.0%	minimum	16460.74445
+
+
+
+
+Summary Statistics
+
+	
+Mean	75170.082
+Std Dev	53137.871
+Std Err Mean	11881.989
+Upper 95% Mean	100039.37
+Lower 95% Mean	50300.792
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.0381392025572	0.1358135	10.758641	11.317637
+Shape	σ	0.607376491379722	0.0960347	0.4586182	0.8580368
+
+
+
+Measures	
+ -2*LogLikelihood	478.33885
+AICc	483.04473
+BIC	484.33032
+
+	
+
+New Zealand_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	487.18165	488.46723	482.47577
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	279158.1112
+99.5%		279158.1112
+97.5%		279158.1112
+90.0%		161254.48926
+75.0%	quartile	102687.8043825
+50.0%	median	67063.634875
+25.0%	quartile	46003.8195925
+10.0%		31205.555418
+2.5%		18254.31295
+0.5%		18254.31295
+0.0%	minimum	18254.31295
+
+
+
+
+Summary Statistics
+
+	
+Mean	83360.64
+Std Dev	58927.792
+Std Err Mean	13176.655
+Upper 95% Mean	110939.7
+Lower 95% Mean	55781.585
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.1415621585685	0.1358135	10.862064	11.42106
+Shape	σ	0.607376491436457	0.0960347	0.4586182	0.8580368
+
+
+
+Measures	
+ -2*LogLikelihood	482.47577
+AICc	487.18165
+BIC	488.46723
+
+	
+
+Nigeria_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2228.9152	2234.0018	2224.7915
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	219983.5011
+99.5%		219983.5011
+97.5%		113937.2807875
+90.0%		59423.774426
+75.0%	quartile	35082.69752
+50.0%	median	20764.41699
+25.0%	quartile	12520.4923625
+10.0%		7937.9150363
+2.5%		4638.409161075
+0.5%		2851.11306
+0.0%	minimum	2851.11306
+
+
+
+
+Summary Statistics
+
+	
+Mean	29102.196
+Std Dev	29131.478
+Std Err Mean	2913.1478
+Upper 95% Mean	34882.514
+Lower 95% Mean	23321.879
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.96352366579818	0.0772205	9.810709	10.116338
+Shape	σ	0.77220522591466	0.0546032	0.6763951	0.8929674
+
+
+
+Measures	
+ -2*LogLikelihood	2224.7915
+AICc	2228.9152
+BIC	2234.0018
+
+	
+
+Nigeria_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2336.8723	2341.9589	2332.7486
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	377412.3122
+99.5%		377412.3122
+97.5%		195475.26234
+90.0%		101949.755298
+75.0%	quartile	60189.2502075
+50.0%	median	35624.24722
+25.0%	quartile	21480.64718
+10.0%		13618.598003
+2.5%		7957.836462975
+0.5%		4891.481256
+0.0%	minimum	4891.481256
+
+
+
+
+Summary Statistics
+
+	
+Mean	49928.868
+Std Dev	49979.105
+Std Err Mean	4997.9105
+Upper 95% Mean	59845.807
+Lower 95% Mean	40011.929
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.503309373347	0.0772205	10.350495	10.656124
+Shape	σ	0.772205225904758	0.0546032	0.6763951	0.8929674
+
+
+
+Measures	
+ -2*LogLikelihood	2332.7486
+AICc	2336.8723
+BIC	2341.9589
+
+	
+
+Nigeria_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2444.8294	2449.9161	2440.7057
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	647503.3476
+99.5%		647503.3476
+97.5%		335365.0176725
+90.0%		174908.99395
+75.0%	quartile	103263.035525
+50.0%	median	61118.354085
+25.0%	quartile	36853.0397875
+10.0%		23364.600222
+2.5%		13652.7759775
+0.5%		8392.016862
+0.0%	minimum	8392.016862
+
+
+
+
+Summary Statistics
+
+	
+Mean	85659.922
+Std Dev	85746.111
+Std Err Mean	8574.6111
+Upper 95% Mean	102673.81
+Lower 95% Mean	68646.033
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.043095080856	0.0772205	10.89028	11.19591
+Shape	σ	0.772205225931404	0.0546032	0.6763951	0.8929674
+
+
+
+Measures	
+ -2*LogLikelihood	2440.7057
+AICc	2444.8294
+BIC	2449.9161
+
+	
+
+Nigeria_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2552.7866	2557.8732	2548.6629
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	1110882.109
+99.5%		1110882.109
+97.5%		575365.3619775
+90.0%		300080.72204
+75.0%	quartile	177162.108975
+50.0%	median	104857.04255
+25.0%	quartile	63226.518745
+10.0%		40085.223432
+2.5%		23423.23730175
+0.5%		14397.67288
+0.0%	minimum	14397.67288
+
+
+
+
+Summary Statistics
+
+	
+Mean	146961.52
+Std Dev	147109.39
+Std Err Mean	14710.939
+Upper 95% Mean	176151.21
+Lower 95% Mean	117771.82
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.582880788413	0.0772205	11.430066	11.735695
+Shape	σ	0.772205225948556	0.0546032	0.6763951	0.8929674
+
+
+
+Measures	
+ -2*LogLikelihood	2548.6629
+AICc	2552.7866
+BIC	2557.8732
+
+	
+
+Norway_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2435.1196	2440.2062	2430.9959
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	385526.3475
+99.5%		385526.3475
+97.5%		237020.76581
+90.0%		156650.33405
+75.0%	quartile	118141.267075
+50.0%	median	87038.72085
+25.0%	quartile	64117.23346
+10.0%		46010.468645
+2.5%		22963.83041975
+0.5%		7362.372067
+0.0%	minimum	7362.372067
+
+
+
+
+Summary Statistics
+
+	
+Mean	96817.265
+Std Dev	52517.541
+Std Err Mean	5251.7541
+Upper 95% Mean	107237.88
+Lower 95% Mean	86396.645
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.3475119189484	0.0542552	11.240144	11.45488
+Shape	σ	0.542552164071754	0.0383642	0.4752359	0.6273998
+
+
+
+Measures	
+ -2*LogLikelihood	2430.9959
+AICc	2435.1196
+BIC	2440.2062
+
+	
+
+Norway_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2456.098	2461.1846	2451.9743
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	428161.9744
+99.5%		428161.9744
+97.5%		263233.0571925
+90.0%		173974.40349
+75.0%	quartile	131206.592
+50.0%	median	96664.39353
+25.0%	quartile	71208.0029075
+10.0%		51098.79837
+2.5%		25503.41639625
+0.5%		8176.581915
+0.0%	minimum	8176.581915
+
+
+
+
+Summary Statistics
+
+	
+Mean	107524.35
+Std Dev	58325.492
+Std Err Mean	5832.5492
+Upper 95% Mean	119097.4
+Lower 95% Mean	95951.31
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.4524039508827	0.0542552	11.345036	11.559772
+Shape	σ	0.54255216408849	0.0383642	0.4752359	0.6273998
+
+
+
+Measures	
+ -2*LogLikelihood	2451.9743
+AICc	2456.098
+BIC	2461.1846
+
+	
+
+Norway_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2477.0764	2482.163	2472.9527
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	475512.705
+99.5%		475512.705
+97.5%		292344.1841
+90.0%		193214.35381
+75.0%	quartile	145716.820275
+50.0%	median	107354.57605
+25.0%	quartile	79082.945475
+10.0%		56749.850026
+2.5%		28323.85695125
+0.5%		9080.835796
+0.0%	minimum	9080.835796
+
+
+
+
+Summary Statistics
+
+	
+Mean	119415.55
+Std Dev	64775.749
+Std Err Mean	6477.5749
+Upper 95% Mean	132268.46
+Lower 95% Mean	106562.63
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.5572959828175	0.0542552	11.449928	11.664664
+Shape	σ	0.542552164096615	0.0383642	0.4752359	0.6273998
+
+
+
+Measures	
+ -2*LogLikelihood	2472.9527
+AICc	2477.0764
+BIC	2482.163
+
+	
+
+Norway_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2498.0548	2503.1414	2493.9311
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	528099.9858
+99.5%		528099.9858
+97.5%		324674.7307225
+90.0%		214582.06352
+75.0%	quartile	161831.744775
+50.0%	median	119226.9933
+25.0%	quartile	87828.7834225
+10.0%		63025.855415
+2.5%		31456.2119955
+0.5%		10085.09174
+0.0%	minimum	10085.09174
+
+
+
+
+Summary Statistics
+
+	
+Mean	132621.79
+Std Dev	71939.344
+Std Err Mean	7193.9344
+Upper 95% Mean	146896.12
+Lower 95% Mean	118347.47
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.6621880147098	0.0542552	11.55482	11.769556
+Shape	σ	0.542552164091833	0.0383642	0.4752359	0.6273998
+
+
+
+Measures	
+ -2*LogLikelihood	2493.9311
+AICc	2498.0548
+BIC	2503.1414
+
+	
+
+Pakistan_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2074.958	2080.0446	2070.8343
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	131969.2647
+99.5%		131969.2647
+97.5%		57760.36308325
+90.0%		27922.734327
+75.0%	quartile	18710.676185
+50.0%	median	13122.75803
+25.0%	quartile	9625.041534
+10.0%		7603.7828123
+2.5%		5813.41973365
+0.5%		4762.119937
+0.0%	minimum	4762.119937
+
+
+
+
+Summary Statistics
+
+	
+Mean	16856.465
+Std Dev	15085.913
+Std Err Mean	1508.5913
+Upper 95% Mean	19849.838
+Lower 95% Mean	13863.093
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.54849559875312	0.0541581	9.4413201	9.6556711
+Shape	σ	0.541581006640039	0.0382956	0.4743852	0.6262767
+
+
+
+Measures	
+ -2*LogLikelihood	2070.8343
+AICc	2074.958
+BIC	2080.0446
+
+	
+
+Pakistan_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2148.3014	2153.388	2144.1777
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	190430.2572
+99.5%		190430.2572
+97.5%		83347.59476525
+90.0%		40292.211152
+75.0%	quartile	26999.308405
+50.0%	median	18936.001435
+25.0%	quartile	13888.8334225
+10.0%		10972.178404
+2.5%		8388.703365425
+0.5%		6871.688845
+0.0%	minimum	6871.688845
+
+
+
+
+Summary Statistics
+
+	
+Mean	24323.701
+Std Dev	21768.814
+Std Err Mean	2176.8814
+Upper 95% Mean	28643.106
+Lower 95% Mean	20004.296
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.91521256984698	0.0541581	9.808037	10.022388
+Shape	σ	0.54158100664437	0.0382956	0.4743852	0.6262767
+
+
+
+Measures	
+ -2*LogLikelihood	2144.1777
+AICc	2148.3014
+BIC	2153.388
+
+	
+
+Pakistan_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2221.6448	2226.7314	2217.5211
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	274788.8528
+99.5%		274788.8528
+97.5%		120269.70024
+90.0%		58141.235752
+75.0%	quartile	38959.7172875
+50.0%	median	27324.45037
+25.0%	quartile	20041.440155
+10.0%		15832.737726
+2.5%		12104.81049
+0.5%		9915.774533
+0.0%	minimum	9915.774533
+
+
+
+
+Summary Statistics
+
+	
+Mean	35098.844
+Std Dev	31412.169
+Std Err Mean	3141.2169
+Upper 95% Mean	41331.7
+Lower 95% Mean	28865.989
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.2819295409666	0.0541581	10.174754	10.389105
+Shape	σ	0.541581006645803	0.0382956	0.4743852	0.6262767
+
+
+
+Measures	
+ -2*LogLikelihood	2217.5211
+AICc	2221.6448
+BIC	2226.7314
+
+	
+
+Pakistan_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2294.9882	2300.0748	2290.8645
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	396517.4166
+99.5%		396517.4166
+97.5%		173547.9090125
+90.0%		83897.190015
+75.0%	quartile	56218.46116
+50.0%	median	39428.89371
+25.0%	quartile	28919.5867825
+10.0%		22846.473559
+2.5%		17467.11386975
+0.5%		14308.35808
+0.0%	minimum	14308.35808
+
+
+
+
+Summary Statistics
+
+	
+Mean	50647.262
+Std Dev	45327.428
+Std Err Mean	4532.7428
+Upper 95% Mean	59641.207
+Lower 95% Mean	41653.317
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.6486465120963	0.0541581	10.541471	10.755822
+Shape	σ	0.541581006626518	0.0382956	0.4743852	0.6262767
+
+
+
+Measures	
+ -2*LogLikelihood	2290.8645
+AICc	2294.9882
+BIC	2300.0748
+
+	
+
+Panama_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2326.031	2331.1176	2321.9073
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	415445.7099
+99.5%		415445.7099
+97.5%		197265.8281825
+90.0%		90190.628918
+75.0%	quartile	51723.514335
+50.0%	median	28920.67468
+25.0%	quartile	15438.53663
+10.0%		7758.156372
+2.5%		3367.545388
+0.5%		1799.319623
+0.0%	minimum	1799.319623
+
+
+
+
+Summary Statistics
+
+	
+Mean	43620.927
+Std Dev	53113.965
+Std Err Mean	5311.3965
+Upper 95% Mean	54159.89
+Lower 95% Mean	33081.964
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.2345391658031	0.095701	10.045153	10.423926
+Shape	σ	0.957010146020721	0.0676708	0.8382706	1.1066732
+
+
+
+Measures	
+ -2*LogLikelihood	2321.9073
+AICc	2326.031
+BIC	2331.1176
+
+	
+
+Panama_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2348.1838	2353.2704	2344.0601
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	464107.3888
+99.5%		464107.3888
+97.5%		220371.82295
+90.0%		100754.770771
+75.0%	quartile	57781.9546725
+50.0%	median	32308.18971
+25.0%	quartile	17246.87186
+10.0%		8666.8789936
+2.5%		3761.990218675
+0.5%		2010.076195
+0.0%	minimum	2010.076195
+
+
+
+
+Summary Statistics
+
+	
+Mean	48730.301
+Std Dev	59335.271
+Std Err Mean	5933.5271
+Upper 95% Mean	60503.706
+Lower 95% Mean	36956.896
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.3453031890395	0.095701	10.155917	10.53469
+Shape	σ	0.957010146013445	0.0676708	0.8382706	1.1066732
+
+
+
+Measures	
+ -2*LogLikelihood	2344.0601
+AICc	2348.1838
+BIC	2353.2704
+
+	
+
+Panama_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2370.3366	2375.4232	2366.2129
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	518468.8714
+99.5%		518468.8714
+97.5%		246184.2519725
+90.0%		112556.30392
+75.0%	quartile	64550.02775
+50.0%	median	36092.48864
+25.0%	quartile	19267.01967
+10.0%		9682.0414384
+2.5%		4202.63686775
+0.5%		2245.51895
+0.0%	minimum	2245.51895
+
+
+
+
+Summary Statistics
+
+	
+Mean	54438.143
+Std Dev	66285.286
+Std Err Mean	6628.5286
+Upper 95% Mean	67590.582
+Lower 95% Mean	41285.704
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.4560672122407	0.095701	10.266681	10.645454
+Shape	σ	0.957010146005558	0.0676708	0.8382706	1.1066732
+
+
+
+Measures	
+ -2*LogLikelihood	2366.2129
+AICc	2370.3366
+BIC	2375.4232
+
+	
+
+Panama_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2392.4894	2397.576	2388.3657
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	579197.783
+99.5%		579197.783
+97.5%		275020.1233
+90.0%		125740.16547
+75.0%	quartile	72110.8537525
+50.0%	median	40320.04726
+25.0%	quartile	21523.7899325
+10.0%		10816.111143
+2.5%		4694.897014125
+0.5%		2508.539411
+0.0%	minimum	2508.539411
+
+
+
+
+Summary Statistics
+
+	
+Mean	60814.551
+Std Dev	74049.365
+Std Err Mean	7404.9365
+Upper 95% Mean	75507.551
+Lower 95% Mean	46121.55
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.5668312354415	0.095701	10.377445	10.756218
+Shape	σ	0.957010146035012	0.0676708	0.8382706	1.1066732
+
+
+
+Measures	
+ -2*LogLikelihood	2388.3657
+AICc	2392.4894
+BIC	2397.576
+
+	
+
+Paraguay_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2255.8733	2260.9599	2251.7496
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	316623.2516
+99.5%		316623.2516
+97.5%		143123.28262
+90.0%		63831.064564
+75.0%	quartile	37997.4039475
+50.0%	median	22184.210905
+25.0%	quartile	13112.8616325
+10.0%		7812.5014891
+2.5%		3873.846767275
+0.5%		2462.741457
+0.0%	minimum	2462.741457
+
+
+
+
+Summary Statistics
+
+	
+Mean	32671.886
+Std Dev	38881.215
+Std Err Mean	3888.1215
+Upper 95% Mean	40386.763
+Lower 95% Mean	24957.01
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.0203987853075	0.0834778	9.8552014	10.185596
+Shape	σ	0.834778052453444	0.0590277	0.7312043	0.9653257
+
+
+
+Measures	
+ -2*LogLikelihood	2251.7496
+AICc	2255.8733
+BIC	2260.9599
+
+	
+
+Paraguay_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2314.8024	2319.889	2310.6787
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	425114.2363
+99.5%		425114.2363
+97.5%		192164.487805
+90.0%		85702.784383
+75.0%	quartile	51017.21771
+50.0%	median	29785.632695
+25.0%	quartile	17605.9848
+10.0%		10489.455803
+2.5%		5201.220698975
+0.5%		3306.600031
+0.0%	minimum	3306.600031
+
+
+
+
+Summary Statistics
+
+	
+Mean	43866.911
+Std Dev	52203.867
+Std Err Mean	5220.3867
+Upper 95% Mean	54225.291
+Lower 95% Mean	33508.531
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.3150441229511	0.0834778	10.149847	10.480242
+Shape	σ	0.834778052444384	0.0590277	0.7312043	0.9653257
+
+
+
+Measures	
+ -2*LogLikelihood	2310.6787
+AICc	2314.8024
+BIC	2319.889
+
+	
+
+Paraguay_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2373.7314	2378.8181	2369.6077
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	570779.6663
+99.5%		570779.6663
+97.5%		258009.66625
+90.0%		115068.85089
+75.0%	quartile	68498.2717825
+50.0%	median	39991.682325
+25.0%	quartile	23638.6770225
+10.0%		14083.668744
+2.5%		6983.419422575
+0.5%		4439.606819
+0.0%	minimum	4439.606819
+
+
+
+
+Summary Statistics
+
+	
+Mean	58897.912
+Std Dev	70091.526
+Std Err Mean	7009.1526
+Upper 95% Mean	72805.592
+Lower 95% Mean	44990.233
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.6096894606058	0.0834778	10.444492	10.774887
+Shape	σ	0.834778052465939	0.0590277	0.7312043	0.9653257
+
+
+
+Measures	
+ -2*LogLikelihood	2369.6077
+AICc	2373.7314
+BIC	2378.8181
+
+	
+
+Paraguay_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2432.6605	2437.7471	2428.5368
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	766357.3684
+99.5%		766357.3684
+97.5%		346416.7007825
+90.0%		154497.20266
+75.0%	quartile	91969.210555
+50.0%	median	53694.83574
+25.0%	quartile	31738.471755
+10.0%		18909.439059
+2.5%		9376.28869425
+0.5%		5960.838481
+0.0%	minimum	5960.838481
+
+
+
+
+Summary Statistics
+
+	
+Mean	79079.287
+Std Dev	94108.394
+Std Err Mean	9410.8394
+Upper 95% Mean	97752.434
+Lower 95% Mean	60406.14
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.9043347982528	0.0834778	10.739137	11.069532
+Shape	σ	0.834778052458456	0.0590277	0.7312043	0.9653257
+
+
+
+Measures	
+ -2*LogLikelihood	2428.5368
+AICc	2432.6605
+BIC	2437.7471
+
+	
+
+Peru_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2154.7884	2159.8751	2150.6647
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	136721.8889
+99.5%		136721.8889
+97.5%		76472.08246875
+90.0%		38703.944908
+75.0%	quartile	23765.92029
+50.0%	median	14325.460925
+25.0%	quartile	8396.096433
+10.0%		4850.4963914
+2.5%		2399.92421205
+0.5%		1485.951566
+0.0%	minimum	1485.951566
+
+
+
+
+Summary Statistics
+
+	
+Mean	19384.927
+Std Dev	18776.011
+Std Err Mean	1877.6011
+Upper 95% Mean	23110.495
+Lower 95% Mean	15659.359
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.54792799963691	0.0807717	9.3880857	9.7077703
+Shape	σ	0.807717449846102	0.0571142	0.7075012	0.9340332
+
+
+
+Measures	
+ -2*LogLikelihood	2150.6647
+AICc	2154.7884
+BIC	2159.8751
+
+	
+
+Peru_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2180.9434	2186.03	2176.8197
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	155823.451
+99.5%		155823.451
+97.5%		87156.07932425
+90.0%		44111.314661
+75.0%	quartile	27086.2825675
+50.0%	median	16326.886475
+25.0%	quartile	9569.12409225
+10.0%		5528.1644568
+2.5%		2735.2202036
+0.5%		1693.555457
+0.0%	minimum	1693.555457
+
+
+
+
+Summary Statistics
+
+	
+Mean	22093.216
+Std Dev	21399.227
+Std Err Mean	2139.9227
+Upper 95% Mean	26339.287
+Lower 95% Mean	17847.145
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.67870278701325	0.0807717	9.5188605	9.8385451
+Shape	σ	0.807717449855825	0.0571142	0.7075012	0.9340332
+
+
+
+Measures	
+ -2*LogLikelihood	2176.8197
+AICc	2180.9434
+BIC	2186.03
+
+	
+
+Peru_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2207.0983	2212.185	2202.9746
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	177593.7129
+99.5%		177593.7129
+97.5%		99332.748851
+90.0%		50274.153853
+75.0%	quartile	30870.536225
+50.0%	median	18607.933335
+25.0%	quartile	10906.0367075
+10.0%		6300.5102562
+2.5%		3117.360758725
+0.5%		1930.163911
+0.0%	minimum	1930.163911
+
+
+
+
+Summary Statistics
+
+	
+Mean	25179.883
+Std Dev	24388.936
+Std Err Mean	2438.8936
+Upper 95% Mean	30019.177
+Lower 95% Mean	20340.589
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.80947757442341	0.0807717	9.6496353	9.9693199
+Shape	σ	0.807717449865716	0.0571142	0.7075012	0.9340332
+
+
+
+Measures	
+ -2*LogLikelihood	2202.9746
+AICc	2207.0983
+BIC	2212.185
+
+	
+
+Peru_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2233.2533	2238.3399	2229.1296
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	202405.5214
+99.5%		202405.5214
+97.5%		113210.6340025
+90.0%		57298.009942
+75.0%	quartile	35183.49203
+50.0%	median	21207.66771
+25.0%	quartile	12429.73082
+10.0%		7180.7613174
+2.5%		3552.8905816
+0.5%		2199.829186
+0.0%	minimum	2199.829186
+
+
+
+
+Summary Statistics
+
+	
+Mean	28697.791
+Std Dev	27796.341
+Std Err Mean	2779.6341
+Upper 95% Mean	34213.188
+Lower 95% Mean	23182.394
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.94025236179459	0.0807717	9.7804101	10.100095
+Shape	σ	0.807717449877046	0.0571142	0.7075012	0.9340332
+
+
+
+Measures	
+ -2*LogLikelihood	2229.1296
+AICc	2233.2533
+BIC	2238.3399
+
+	
+
+Philippines_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2132.3163	2137.4029	2128.1926
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	134076.16
+99.5%		134076.16
+97.5%		72503.00508225
+90.0%		37627.825559
+75.0%	quartile	22927.503925
+50.0%	median	13811.286165
+25.0%	quartile	8975.41376775
+10.0%		6441.4223984
+2.5%		4439.8911925
+0.5%		3393.90492
+0.0%	minimum	3393.90492
+
+
+
+
+Summary Statistics
+
+	
+Mean	19222.389
+Std Dev	17891.601
+Std Err Mean	1789.1601
+Upper 95% Mean	22772.47
+Lower 95% Mean	15672.307
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.60110549055285	0.068449	9.4656491	9.7365618
+Shape	σ	0.684490021951893	0.0484008	0.599563	0.7915347
+
+
+
+Measures	
+ -2*LogLikelihood	2128.1926
+AICc	2132.3163
+BIC	2137.4029
+
+	
+
+Philippines_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2171.9215	2177.0082	2167.7978
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	163438.091
+99.5%		163438.091
+97.5%		88380.758629
+90.0%		45868.109398
+75.0%	quartile	27948.4993525
+50.0%	median	16835.880765
+25.0%	quartile	10940.9793
+10.0%		7852.0579608
+2.5%		5412.20258875
+0.5%		4137.15116
+0.0%	minimum	4137.15116
+
+
+
+
+Summary Statistics
+
+	
+Mean	23431.984
+Std Dev	21809.762
+Std Err Mean	2180.9762
+Upper 95% Mean	27759.514
+Lower 95% Mean	19104.455
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.79913176350515	0.068449	9.6636754	9.9345881
+Shape	σ	0.684490022002758	0.0484008	0.599563	0.7915347
+
+
+
+Measures	
+ -2*LogLikelihood	2167.7978
+AICc	2171.9215
+BIC	2177.0082
+
+	
+
+Philippines_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2211.5268	2216.6134	2207.4031
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	199230.1209
+99.5%		199230.1209
+97.5%		107735.65160425
+90.0%		55912.969407
+75.0%	quartile	34069.0647575
+50.0%	median	20522.84471
+25.0%	quartile	13336.9927125
+10.0%		9571.61484
+2.5%		6597.444755625
+0.5%		5043.164178
+0.0%	minimum	5043.164178
+
+
+
+
+Summary Statistics
+
+	
+Mean	28563.458
+Std Dev	26585.978
+Std Err Mean	2658.5978
+Upper 95% Mean	33838.693
+Lower 95% Mean	23288.223
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.99715803646458	0.068449	9.8617017	10.132614
+Shape	σ	0.684490021992443	0.0484008	0.599563	0.7915347
+
+
+
+Measures	
+ -2*LogLikelihood	2207.4031
+AICc	2211.5268
+BIC	2216.6134
+
+	
+
+Philippines_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2251.132	2256.2187	2247.0083
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	242860.4057
+99.5%		242860.4057
+97.5%		131329.158125
+90.0%		68157.597716
+75.0%	quartile	41529.9998325
+50.0%	median	25017.233185
+25.0%	quartile	16257.7197025
+10.0%		11667.745076
+2.5%		8042.248343475
+0.5%		6147.588992
+0.0%	minimum	6147.588992
+
+
+
+
+Summary Statistics
+
+	
+Mean	34818.696
+Std Dev	32408.158
+Std Err Mean	3240.8158
+Upper 95% Mean	41249.178
+Lower 95% Mean	28388.214
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.1951843094392	0.068449	10.059728	10.330641
+Shape	σ	0.684490021983498	0.0484008	0.599563	0.7915347
+
+
+
+Measures	
+ -2*LogLikelihood	2247.0083
+AICc	2251.132
+BIC	2256.2187
+
+	
+
+Poland_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2304.2401	2309.3268	2300.1164
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	209379.134
+99.5%		209379.134
+97.5%		135245.1722125
+90.0%		83993.112227
+75.0%	quartile	59551.5847
+50.0%	median	43142.252715
+25.0%	quartile	30391.758265
+10.0%		21769.713766
+2.5%		11775.80107175
+0.5%		4836.515091
+0.0%	minimum	4836.515091
+
+
+
+
+Summary Statistics
+
+	
+Mean	49277.273
+Std Dev	29794.245
+Std Err Mean	2979.4245
+Upper 95% Mean	55189.098
+Lower 95% Mean	43365.449
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.6518510055416	0.0565408	10.53996	10.763742
+Shape	σ	0.565408153998358	0.0399804	0.495256	0.6538301
+
+
+
+Measures	
+ -2*LogLikelihood	2300.1164
+AICc	2304.2401
+BIC	2309.3268
+
+	
+
+Poland_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2329.7129	2334.7996	2325.5892
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	237819.1775
+99.5%		237819.1775
+97.5%		153615.572865
+90.0%		95401.927063
+75.0%	quartile	67640.4980075
+50.0%	median	49002.28052
+25.0%	quartile	34519.881795
+10.0%		24726.701873
+2.5%		13375.3123915
+0.5%		5493.460686
+0.0%	minimum	5493.460686
+
+
+
+
+Summary Statistics
+
+	
+Mean	55970.623
+Std Dev	33841.208
+Std Err Mean	3384.1208
+Upper 95% Mean	62685.453
+Lower 95% Mean	49255.793
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.7792149853977	0.0565408	10.667324	10.891106
+Shape	σ	0.565408153967792	0.0399804	0.495256	0.6538301
+
+
+
+Measures	
+ -2*LogLikelihood	2325.5892
+AICc	2329.7129
+BIC	2334.7996
+
+	
+
+Poland_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2355.1857	2360.2724	2351.062
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	270122.2425
+99.5%		270122.2425
+97.5%		174481.231755
+90.0%		108360.40537
+75.0%	quartile	76828.1313325
+50.0%	median	55658.278015
+25.0%	quartile	39208.72983
+10.0%		28085.338734
+2.5%		15192.08591975
+0.5%		6239.639439
+0.0%	minimum	6239.639439
+
+
+
+
+Summary Statistics
+
+	
+Mean	63573.133
+Std Dev	38437.871
+Std Err Mean	3843.7871
+Upper 95% Mean	71200.041
+Lower 95% Mean	55946.226
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.906578965292	0.0565408	10.794688	11.01847
+Shape	σ	0.565408153964266	0.0399804	0.495256	0.6538301
+
+
+
+Measures	
+ -2*LogLikelihood	2351.062
+AICc	2355.1857
+BIC	2360.2724
+
+	
+
+Poland_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2380.6585	2385.7452	2376.5348
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	306813.0444
+99.5%		306813.0444
+97.5%		198181.080575
+90.0%		123079.03838
+75.0%	quartile	87263.7242225
+50.0%	median	63218.362065
+25.0%	quartile	44534.465795
+10.0%		31900.180458
+2.5%		17255.63244525
+0.5%		7087.171923
+0.0%	minimum	7087.171923
+
+
+
+
+Summary Statistics
+
+	
+Mean	72208.295
+Std Dev	43658.901
+Std Err Mean	4365.8901
+Upper 95% Mean	80871.168
+Lower 95% Mean	63545.422
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.0339429451369	0.0565408	10.922052	11.145834
+Shape	σ	0.565408153975833	0.0399804	0.495256	0.6538301
+
+
+
+Measures	
+ -2*LogLikelihood	2376.5348
+AICc	2380.6585
+BIC	2385.7452
+
+	
+
+Portugal_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2310.6148	2315.7015	2306.4911
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	243876.6101
+99.5%		243876.6101
+97.5%		153997.0458575
+90.0%		84167.867514
+75.0%	quartile	57235.861985
+50.0%	median	38878.53525
+25.0%	quartile	27190.0068075
+10.0%		18184.216193
+2.5%		9642.503315175
+0.5%		3995.667151
+0.0%	minimum	3995.667151
+
+
+
+
+Summary Statistics
+
+	
+Mean	47557.841
+Std Dev	34477.468
+Std Err Mean	3447.7468
+Upper 95% Mean	54398.919
+Lower 95% Mean	40716.764
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.5718871177972	0.0632313	10.446756	10.697018
+Shape	σ	0.63231347371212	0.0447113	0.5538602	0.7311985
+
+
+
+Measures	
+ -2*LogLikelihood	2306.4911
+AICc	2310.6148
+BIC	2315.7015
+
+	
+
+Portugal_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2328.4548	2333.5414	2324.331
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	266630.0166
+99.5%		266630.0166
+97.5%		168364.79263
+90.0%		92020.632485
+75.0%	quartile	62575.90191
+50.0%	median	42505.857755
+25.0%	quartile	29726.8030925
+10.0%		19880.782592
+2.5%		10542.13775545
+0.5%		4368.458289
+0.0%	minimum	4368.458289
+
+
+
+
+Summary Statistics
+
+	
+Mean	51994.933
+Std Dev	37694.176
+Std Err Mean	3769.4176
+Upper 95% Mean	59474.275
+Lower 95% Mean	44515.591
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.66108670845	0.0632313	10.535956	10.786218
+Shape	σ	0.632313473714506	0.0447113	0.5538602	0.7311985
+
+
+
+Measures	
+ -2*LogLikelihood	2324.331
+AICc	2328.4548
+BIC	2333.5414
+
+	
+
+Portugal_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2346.2947	2351.3813	2342.171
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	291506.2897
+99.5%		291506.2897
+97.5%		184073.0336475
+90.0%		100606.051396
+75.0%	quartile	68414.16139
+50.0%	median	46471.605265
+25.0%	quartile	32500.2795325
+10.0%		21735.636681
+2.5%		11525.70705225
+0.5%		4776.030409
+0.0%	minimum	4776.030409
+
+
+
+
+Summary Statistics
+
+	
+Mean	56846
+Std Dev	41210.999
+Std Err Mean	4121.0999
+Upper 95% Mean	65023.157
+Lower 95% Mean	48668.844
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.7502862991091	0.0632313	10.625155	10.875417
+Shape	σ	0.632313473704893	0.0447113	0.5538602	0.7311985
+
+
+
+Measures	
+ -2*LogLikelihood	2342.171
+AICc	2346.2947
+BIC	2351.3813
+
+	
+
+Portugal_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2364.1346	2369.2212	2360.0109
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	318703.4903
+99.5%		318703.4903
+97.5%		201246.835435
+90.0%		109992.47996
+75.0%	quartile	74797.12375
+50.0%	median	50807.352445
+25.0%	quartile	35532.5181325
+10.0%		23763.546523
+2.5%		12601.04222725
+0.5%		5221.628539
+0.0%	minimum	5221.628539
+
+
+
+
+Summary Statistics
+
+	
+Mean	62149.667
+Std Dev	45055.938
+Std Err Mean	4505.5938
+Upper 95% Mean	71089.742
+Lower 95% Mean	53209.591
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.8394858897507	0.0632313	10.714355	10.964617
+Shape	σ	0.632313473706992	0.0447113	0.5538602	0.7311985
+
+
+
+Measures	
+ -2*LogLikelihood	2360.0109
+AICc	2364.1346
+BIC	2369.2212
+
+	
+
+R. of Korea_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	473.14044	474.42602	468.43456
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	162122.9967
+99.5%		162122.9967
+97.5%		162122.9967
+90.0%		109242.90736
+75.0%	quartile	74308.3174225
+50.0%	median	51162.05217
+25.0%	quartile	34100.35629
+10.0%		20452.574164
+2.5%		11670.52306
+0.5%		11670.52306
+0.0%	minimum	11670.52306
+
+
+
+
+Summary Statistics
+
+	
+Mean	58317.625
+Std Dev	35157.082
+Std Err Mean	7861.3625
+Upper 95% Mean	74771.646
+Lower 95% Mean	41863.604
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.8062807021789	0.1336914	10.53115	11.081411
+Shape	σ	0.597885899512713	0.0945341	0.451452	0.8446295
+
+
+
+Measures	
+ -2*LogLikelihood	468.43456
+AICc	473.14044
+BIC	474.42602
+
+	
+
+R. of Korea_2036
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	476.70842	477.994	472.00254
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	177248.8854
+99.5%		177248.8854
+97.5%		177248.8854
+90.0%		119435.14457
+75.0%	quartile	81241.197745
+50.0%	median	55935.412635
+25.0%	quartile	37281.88021
+10.0%		22360.775749
+2.5%		12759.3694
+0.5%		12759.3694
+0.0%	minimum	12759.3694
+
+
+
+
+Summary Statistics
+
+	
+Mean	63758.592
+Std Dev	38437.197
+Std Err Mean	8594.8186
+Upper 95% Mean	81747.754
+Lower 95% Mean	45769.43
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.8954802928064	0.1336914	10.62035	11.170611
+Shape	σ	0.597885899554261	0.0945341	0.451452	0.8446295
+
+
+
+Measures	
+ -2*LogLikelihood	472.00254
+AICc	476.70842
+BIC	477.994
+
+	
+
+R. of Korea_2037
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	480.27641	481.56199	475.57052
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	193786.002
+99.5%		193786.002
+97.5%		193786.002
+90.0%		130578.30589
+75.0%	quartile	88820.9078
+50.0%	median	61154.122125
+25.0%	quartile	40760.2366375
+10.0%		24447.010339
+2.5%		13949.80385
+0.5%		13949.80385
+0.0%	minimum	13949.80385
+
+
+
+
+Summary Statistics
+
+	
+Mean	69707.195
+Std Dev	42023.343
+Std Err Mean	9396.7052
+Upper 95% Mean	89374.725
+Lower 95% Mean	50039.665
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.9846798834791	0.1336914	10.709549	11.259811
+Shape	σ	0.597885899574491	0.0945341	0.451452	0.8446295
+
+
+
+Measures	
+ -2*LogLikelihood	475.57052
+AICc	480.27641
+BIC	481.56199
+
+	
+
+R. of Korea_2038
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	483.84439	485.12997	479.13851
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	211866.0125
+99.5%		211866.0125
+97.5%		211866.0125
+90.0%		142761.1112
+75.0%	quartile	97107.7960675
+50.0%	median	66859.731195
+25.0%	quartile	44563.1197075
+10.0%		26727.888209
+2.5%		15251.30447
+0.5%		15251.30447
+0.0%	minimum	15251.30447
+
+
+
+
+Summary Statistics
+
+	
+Mean	76210.796
+Std Dev	45944.073
+Std Err Mean	10273.407
+Upper 95% Mean	97713.284
+Lower 95% Mean	54708.308
+N	20
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.0738794741423	0.1336914	10.798749	11.34901
+Shape	σ	0.597885899516102	0.0945341	0.451452	0.8446295
+
+
+
+Measures	
+ -2*LogLikelihood	479.13851
+AICc	483.84439
+BIC	485.12997
+
+	
+
+Romania_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2550.4243	2555.5109	2546.3006
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	535986.7774
+99.5%		535986.7774
+97.5%		379182.2045975
+90.0%		243541.19854
+75.0%	quartile	174957.3818
+50.0%	median	114219.18765
+25.0%	quartile	67331.78613
+10.0%		34746.954466
+2.5%		11916.98735
+0.5%		3712.679329
+0.0%	minimum	3712.679329
+
+
+
+
+Summary Statistics
+
+	
+Mean	130760.38
+Std Dev	89888.473
+Std Err Mean	8988.8473
+Upper 95% Mean	148596.2
+Lower 95% Mean	112924.55
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.5184998229261	0.0813886	11.357437	11.679563
+Shape	σ	0.813885690365788	0.0575504	0.7129041	0.9411661
+
+
+
+Measures	
+ -2*LogLikelihood	2546.3006
+AICc	2550.4243
+BIC	2555.5109
+
+	
+
+Romania_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2638.7099	2643.7965	2634.5862
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	833419.666
+99.5%		833419.666
+97.5%		589600.19105
+90.0%		378688.49176
+75.0%	quartile	272045.74605
+50.0%	median	177602.3611
+25.0%	quartile	104695.93105
+10.0%		54028.935804
+2.5%		18530.03102975
+0.5%		5772.940858
+0.0%	minimum	5772.940858
+
+
+
+
+Summary Statistics
+
+	
+Mean	203322.68
+Std Dev	139769.91
+Std Err Mean	13976.991
+Upper 95% Mean	231056.06
+Lower 95% Mean	175589.3
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.9599276472361	0.0813886	11.798865	12.120991
+Shape	σ	0.813885690353082	0.0575504	0.7129041	0.9411661
+
+
+
+Measures	
+ -2*LogLikelihood	2634.5862
+AICc	2638.7099
+BIC	2643.7965
+
+	
+
+Romania_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2726.9954	2732.0821	2722.8717
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	1295905.737
+99.5%		1295905.737
+97.5%		916784.545875
+90.0%		588832.50426
+75.0%	quartile	423010.948025
+50.0%	median	276158.4926
+25.0%	quartile	162794.403875
+10.0%		84010.985964
+2.5%		28812.82322925
+0.5%		8976.494654
+0.0%	minimum	8976.494654
+
+
+
+
+Summary Statistics
+
+	
+Mean	316151.68
+Std Dev	217331.83
+Std Err Mean	21733.183
+Upper 95% Mean	359275.03
+Lower 95% Mean	273028.33
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	12.4013554715965	0.0813886	12.240293	12.562418
+Shape	σ	0.813885690359431	0.0575504	0.7129041	0.9411661
+
+
+
+Measures	
+ -2*LogLikelihood	2722.8717
+AICc	2726.9954
+BIC	2732.0821
+
+	
+
+Romania_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2815.281	2820.3676	2811.1573
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	2015037.258
+99.5%		2015037.258
+97.5%		1425531.9389
+90.0%		915590.84988
+75.0%	quartile	657750.634675
+50.0%	median	429405.9637
+25.0%	quartile	253133.217875
+10.0%		130630.8491
+2.5%		44801.80207525
+0.5%		13957.78309
+0.0%	minimum	13957.78309
+
+
+
+
+Summary Statistics
+
+	
+Mean	491592.4
+Std Dev	337934.87
+Std Err Mean	33793.487
+Upper 95% Mean	558646.01
+Lower 95% Mean	424538.79
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	12.8427832958941	0.0813886	12.68172	13.003846
+Shape	σ	0.813885690349531	0.0575504	0.7129041	0.9411661
+
+
+
+Measures	
+ -2*LogLikelihood	2811.1573
+AICc	2815.281
+BIC	2820.3676
+
+	
+
+Russia_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2336.4434	2341.53	2332.3197
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	354529.2939
+99.5%		354529.2939
+97.5%		206973.49883
+90.0%		101504.328794
+75.0%	quartile	64305.112
+50.0%	median	40938.90777
+25.0%	quartile	28102.596985
+10.0%		19998.834915
+2.5%		13098.44610025
+0.5%		9065.867584
+0.0%	minimum	9065.867584
+
+
+
+
+Summary Statistics
+
+	
+Mean	54914.699
+Std Dev	47675.444
+Std Err Mean	4767.5444
+Upper 95% Mean	64374.541
+Lower 95% Mean	45454.856
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.6827830906034	0.0643957	10.555348	10.810218
+Shape	σ	0.643957020764244	0.0455346	0.5640591	0.7446629
+
+
+
+Measures	
+ -2*LogLikelihood	2332.3197
+AICc	2336.4434
+BIC	2341.53
+
+	
+
+Russia_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2377.5853	2382.6719	2373.4616
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	435502.5682
+99.5%		435502.5682
+97.5%		254245.5359
+90.0%		124687.56926
+75.0%	quartile	78992.1789675
+50.0%	median	50289.21385
+25.0%	quartile	34521.133725
+10.0%		24566.500202
+2.5%		16090.08625
+0.5%		11136.48064
+0.0%	minimum	11136.48064
+
+
+
+
+Summary Statistics
+
+	
+Mean	67457.027
+Std Dev	58564.352
+Std Err Mean	5856.4352
+Upper 95% Mean	79077.465
+Lower 95% Mean	55836.589
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.8884928072718	0.0643957	10.761058	11.015928
+Shape	σ	0.643957020743703	0.0455346	0.5640591	0.7446629
+
+
+
+Measures	
+ -2*LogLikelihood	2373.4616
+AICc	2377.5853
+BIC	2382.6719
+
+	
+
+Russia_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2418.7273	2423.8139	2414.6036
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	534969.8607
+99.5%		534969.8607
+97.5%		312314.34402
+90.0%		153165.78227
+75.0%	quartile	97033.721635
+50.0%	median	61775.097765
+25.0%	quartile	42405.6422275
+10.0%		30177.404567
+2.5%		19765.0067495
+0.5%		13680.01461
+0.0%	minimum	13680.01461
+
+
+
+
+Summary Statistics
+
+	
+Mean	82863.981
+Std Dev	71940.249
+Std Err Mean	7194.0249
+Upper 95% Mean	97138.487
+Lower 95% Mean	68589.475
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.0942025239504	0.0643957	10.966767	11.221638
+Shape	σ	0.643957020753104	0.0455346	0.5640591	0.7446629
+
+
+
+Measures	
+ -2*LogLikelihood	2414.6036
+AICc	2418.7273
+BIC	2423.8139
+
+	
+
+Russia_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2459.8692	2464.9558	2455.7455
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	657155.1415
+99.5%		657155.1415
+97.5%		383645.8686925
+90.0%		188148.32147
+75.0%	quartile	119195.890775
+50.0%	median	75884.31815
+25.0%	quartile	52090.945425
+10.0%		37069.82023
+2.5%		24279.26648175
+0.5%		16804.48301
+0.0%	minimum	16804.48301
+
+
+
+
+Summary Statistics
+
+	
+Mean	101789.83
+Std Dev	88371.155
+Std Err Mean	8837.1155
+Upper 95% Mean	119324.58
+Lower 95% Mean	84255.075
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.2999122405902	0.0643957	11.172477	11.427347
+Shape	σ	0.643957020766336	0.0455346	0.5640591	0.7446629
+
+
+
+Measures	
+ -2*LogLikelihood	2455.7455
+AICc	2459.8692
+BIC	2464.9558
+
+	
+
+Serbia_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2436.2695	2441.3562	2432.1458
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	431150.4293
+99.5%		431150.4293
+97.5%		280285.1533925
+90.0%		174114.6093
+75.0%	quartile	121292.20355
+50.0%	median	84017.524715
+25.0%	quartile	59848.7824325
+10.0%		43138.962507
+2.5%		28915.83209325
+0.5%		20206.0652
+0.0%	minimum	20206.0652
+
+
+
+
+Summary Statistics
+
+	
+Mean	99664.917
+Std Dev	61972.472
+Std Err Mean	6197.2472
+Upper 95% Mean	111961.6
+Lower 95% Mean	87368.234
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.3588236696379	0.0539543	11.252051	11.465596
+Shape	σ	0.53954281644247	0.0381514	0.4725999	0.6239198
+
+
+
+Measures	
+ -2*LogLikelihood	2432.1458
+AICc	2436.2695
+BIC	2441.3562
+
+	
+
+Serbia_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2557.956	2563.0427	2553.8323
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	792260.0187
+99.5%		792260.0187
+97.5%		515037.6893725
+90.0%		319944.11762
+75.0%	quartile	222880.36125
+50.0%	median	154386.31435
+25.0%	quartile	109975.0673
+10.0%		79269.95527
+2.5%		53134.2569045
+0.5%		37129.63389
+0.0%	minimum	37129.63389
+
+
+
+
+Summary Statistics
+
+	
+Mean	183139.16
+Std Dev	113877.45
+Std Err Mean	11387.745
+Upper 95% Mean	205734.92
+Lower 95% Mean	160543.41
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	11.9672562609222	0.0539543	11.860484	12.074028
+Shape	σ	0.539542816453889	0.0381514	0.4725999	0.6239198
+
+
+
+Measures	
+ -2*LogLikelihood	2553.8323
+AICc	2557.956
+BIC	2563.0427
+
+	
+
+Serbia_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2679.6426	2684.7292	2675.5189
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	1455816.566
+99.5%		1455816.566
+97.5%		946406.9655375
+90.0%		587912.97744
+75.0%	quartile	409553.573825
+50.0%	median	283692.4098
+25.0%	quartile	202084.569525
+10.0%		145662.4231
+2.5%		97636.798012
+0.5%		68227.51977
+0.0%	minimum	68227.51977
+
+
+
+
+Summary Statistics
+
+	
+Mean	336527.18
+Std Dev	209255.39
+Std Err Mean	20925.539
+Upper 95% Mean	378047.99
+Lower 95% Mean	295006.37
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	12.5756888522198	0.0539543	12.468917	12.682461
+Shape	σ	0.539542816440594	0.0381514	0.4725999	0.6239198
+
+
+
+Measures	
+ -2*LogLikelihood	2675.5189
+AICc	2679.6426
+BIC	2684.7292
+
+	
+
+Serbia_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2801.3291	2806.4157	2797.2054
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	2675134.202
+99.5%		2675134.202
+97.5%		1739069.1259
+90.0%		1080318.8741
+75.0%	quartile	752574.73965
+50.0%	median	521298.6898
+25.0%	quartile	371340.2885
+10.0%		267661.8326
+2.5%		179412.395685
+0.5%		125371.4073
+0.0%	minimum	125371.4073
+
+
+
+
+Summary Statistics
+
+	
+Mean	618385.16
+Std Dev	384517.03
+Std Err Mean	38451.703
+Upper 95% Mean	694681.68
+Lower 95% Mean	542088.64
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	13.1841214434868	0.0539543	13.077349	13.290894
+Shape	σ	0.539542816440215	0.0381514	0.4725999	0.6239198
+
+
+
+Measures	
+ -2*LogLikelihood	2797.2054
+AICc	2801.3291
+BIC	2806.4157
+
+	
+
+SouthAfrica_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2214.3981	2219.4847	2210.2743
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	353622.567
+99.5%		353622.567
+97.5%		177329.957935
+90.0%		73151.99374
+75.0%	quartile	27767.6311075
+50.0%	median	11157.44996
+25.0%	quartile	5769.81555825
+10.0%		3355.8585621
+2.5%		1770.12103595
+0.5%		1200.832801
+0.0%	minimum	1200.832801
+
+
+
+
+Summary Statistics
+
+	
+Mean	27998.62
+Std Dev	47714.635
+Std Err Mean	4771.4635
+Upper 95% Mean	37466.239
+Lower 95% Mean	18531.001
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.49052329641055	0.1152473	9.262456	9.7185906
+Shape	σ	1.15247279530926	0.0814921	1.0094816	1.3327035
+
+
+
+Measures	
+ -2*LogLikelihood	2210.2743
+AICc	2214.3981
+BIC	2219.4847
+
+	
+
+SouthAfrica_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2264.1401	2269.2268	2260.0164
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	453475.2121
+99.5%		453475.2121
+97.5%		227402.738925
+90.0%		93807.972029
+75.0%	quartile	35608.39601
+50.0%	median	14307.9867
+25.0%	quartile	7399.0423065
+10.0%		4303.4546294
+2.5%		2269.951318775
+0.5%		1539.912777
+0.0%	minimum	1539.912777
+
+
+
+
+Summary Statistics
+
+	
+Mean	35904.609
+Std Dev	61187.849
+Std Err Mean	6118.7849
+Upper 95% Mean	48045.606
+Lower 95% Mean	23763.612
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.73923375590779	0.1152473	9.5111665	9.967301
+Shape	σ	1.15247279530556	0.0814921	1.0094816	1.3327035
+
+
+
+Measures	
+ -2*LogLikelihood	2260.0164
+AICc	2264.1401
+BIC	2269.2268
+
+	
+
+SouthAfrica_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2313.8822	2318.9689	2309.7585
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	581523.3166
+99.5%		581523.3166
+97.5%		291614.6052
+90.0%		120296.59298
+75.0%	quartile	45663.16304
+50.0%	median	18348.14265
+25.0%	quartile	9488.31492175
+10.0%		5518.6240441
+2.5%		2910.919018425
+0.5%		1974.738996
+0.0%	minimum	1974.738996
+
+
+
+
+Summary Statistics
+
+	
+Mean	46043.018
+Std Dev	78465.504
+Std Err Mean	7846.5504
+Upper 95% Mean	61612.276
+Lower 95% Mean	30473.76
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	9.98794421535493	0.1152473	9.759877	10.216011
+Shape	σ	1.15247279530698	0.0814921	1.0094816	1.3327035
+
+
+
+Measures	
+ -2*LogLikelihood	2309.7585
+AICc	2313.8822
+BIC	2318.9689
+
+	
+
+SouthAfrica_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2363.6243	2368.711	2359.5006
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	745728.4515
+99.5%		745728.4515
+97.5%		373958.019885
+90.0%		154264.82386
+75.0%	quartile	58557.10149
+50.0%	median	23529.120185
+25.0%	quartile	12167.5368675
+10.0%		7076.9216744
+2.5%		3732.877204
+0.5%		2532.347392
+0.0%	minimum	2532.347392
+
+
+
+
+Summary Statistics
+
+	
+Mean	59044.216
+Std Dev	100621.86
+Std Err Mean	10062.186
+Upper 95% Mean	79009.777
+Lower 95% Mean	39078.656
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.2366546748443	0.1152473	10.008587	10.464722
+Shape	σ	1.15247279530046	0.0814921	1.0094816	1.3327035
+
+
+
+Measures	
+ -2*LogLikelihood	2359.5006
+AICc	2363.6243
+BIC	2368.711
+
+	
+
+Spain_2035
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2368.2903	2373.377	2364.1666
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	261300.7767
+99.5%		261300.7767
+97.5%		161362.85472
+90.0%		102896.596691
+75.0%	quartile	70360.939455
+50.0%	median	47428.071795
+25.0%	quartile	29961.986885
+10.0%		18518.709119
+2.5%		7284.808148875
+0.5%		1486.842152
+0.0%	minimum	1486.842152
+
+
+
+
+Summary Statistics
+
+	
+Mean	55797.732
+Std Dev	38767.896
+Std Err Mean	3876.7896
+Upper 95% Mean	63490.123
+Lower 95% Mean	48105.34
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.6992837410948	0.0742755	10.552297	10.84627
+Shape	σ	0.742754926964183	0.0525207	0.6505988	0.8589115
+
+
+
+Measures	
+ -2*LogLikelihood	2364.1666
+AICc	2368.2903
+BIC	2373.377
+
+	
+
+Spain_2040
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2385.1475	2390.2341	2381.0237
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	284279.4492
+99.5%		284279.4492
+97.5%		175553.0313975
+90.0%		111945.27703
+75.0%	quartile	76548.448735
+50.0%	median	51598.87504
+25.0%	quartile	32596.8305025
+10.0%		20147.236041
+2.5%		7925.43089215
+0.5%		1617.59438
+0.0%	minimum	1617.59438
+
+
+
+
+Summary Statistics
+
+	
+Mean	60704.559
+Std Dev	42177.127
+Std Err Mean	4217.7127
+Upper 95% Mean	69073.416
+Lower 95% Mean	52335.702
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.7835693264136	0.0742755	10.636583	10.930556
+Shape	σ	0.742754926987216	0.0525207	0.6505988	0.8589115
+
+
+
+Measures	
+ -2*LogLikelihood	2381.0237
+AICc	2385.1475
+BIC	2390.2341
+
+	
+
+Spain_2045
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2402.0046	2407.0912	2397.8809
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	309278.8558
+99.5%		309278.8558
+97.5%		190991.085825
+90.0%		121789.69418
+75.0%	quartile	83280.0847975
+50.0%	median	56136.456845
+25.0%	quartile	35463.3810725
+10.0%		21918.974894
+2.5%		8622.3897106
+0.5%		1759.844901
+0.0%	minimum	1759.844901
+
+
+
+
+Summary Statistics
+
+	
+Mean	66042.89
+Std Dev	45886.165
+Std Err Mean	4588.6165
+Upper 95% Mean	75147.701
+Lower 95% Mean	56938.08
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.8678549117466	0.0742755	10.720868	11.014842
+Shape	σ	0.742754926982099	0.0525207	0.6505988	0.8589115
+
+
+
+Measures	
+ -2*LogLikelihood	2397.8809
+AICc	2402.0046
+BIC	2407.0912
+
+	
+
+Spain_2050
+
+
+
+
+Compare Distributions
+
+Distribution		AICc	BIC	 -2*LogLikelihood
+Lognormal	++++	2418.8617	2423.9483	2414.738
+
+
+
+
+Quantiles
+
+		
+100.0%	maximum	336476.6989
+99.5%		336476.6989
+97.5%		207786.7557625
+90.0%		132499.82501
+75.0%	quartile	90603.6979025
+50.0%	median	61073.07154
+25.0%	quartile	38582.0148125
+10.0%		23846.519664
+2.5%		9380.638771525
+0.5%		1914.604867
+0.0%	minimum	1914.604867
+
+
+
+
+Summary Statistics
+
+	
+Mean	71850.672
+Std Dev	49921.373
+Std Err Mean	4992.1373
+Upper 95% Mean	81756.156
+Lower 95% Mean	61945.189
+N	100
+
+
+
+
+Fitted Lognormal Distribution
+
+Parameter		Estimate	Std Error	Lower 95%	Upper 95%
+Scale	μ	10.9521404970602	0.0742755	10.805154	11.099127
+Shape	σ	0.742754927004182	0.0525207	0.6505988	0.8589115
+
+
+
+Measures	
+ -2*LogLikelihood	2414.738
+AICc	2418.8617
+BIC	2423.9483
+
