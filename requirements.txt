@@ -1,3 +1,0 @@
-The codes are compatiable with python 3.4 or above matured version
-The users may need to install some advanced libraies as such numba, scipy
-
